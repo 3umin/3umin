@@ -12,15 +12,12 @@
 
   #### 🔎 Brief Introduction
   
+
+</div>
   ▪ I'm majoring in **Applied Statistics** & **Economics** at Chung-Ang University.
   ▪
   ▪
-</div>
-
 
 I'm majoring in Applied Statistics & Economics at Chung-Ang University.
 I'm currently studying Machine Leanrning & Deep Learning.
 I'm a passionate person who studies hard all day.
-<div align="center">
-  가운데 정렬
-</div>
