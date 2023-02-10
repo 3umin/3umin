@@ -2,8 +2,8 @@
 
 <h3 align="center"> ✋ Welcome to my Github Profile! </h3>
 
-</p>
-</p>
+</br>
+</br>
 
 <h3 align="center"> 📣 Brief Introduction </h3>
 <p align="center">
