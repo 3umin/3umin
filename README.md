@@ -7,11 +7,15 @@
 
 <h3 align="center"> 📣 Brief Introduction </h3>
 <p align="center">
-  &nbsp;▪ 안녕하세요! 제 이름은 <b>곽수민</b>입니다.  </br></br>
-  &nbsp;▪ 저는 중앙대학교에서 <b>응용통계학</b>과 <b>경제학</b>을 전공하고 있습니다. </br></br>
-  &nbsp;▪ 저는 현재 <b>머신러닝</b>과 <b>딥러닝</b>을 공부하고 있습니다! </br></br>
+  &nbsp; ▪ 안녕하세요! 제 이름은 <b>곽수민</b>입니다. </br></br>
+  &nbsp; ▪ 저는 중앙대학교에서 <b>응용통계학</b>과 <b>경제학</b>을 전공하고 있습니다. </br></br>
+  &nbsp; ▪ 저는 현재 <b>머신러닝</b>과 <b>딥러닝</b>을 공부하고 있습니다! </br></br>
   
 </p>
+<!--h6 align="center"> ▪ 안녕하세요! 제 이름은 <b>곽수민</b>입니다. &thinsp; </h6>
+<h6 align="center"> ▪ 저는 중앙대학교에서 <b>응용통계학</b>과 <b>경제학</b>을 전공하고 있습니다. </h6>
+<h6 align="center"> ▪ 저는 현재 <b>머신러닝</b>과 <b>딥러닝</b>을 공부하고 있습니다! </h6-->
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
