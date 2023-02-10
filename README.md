@@ -1,5 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Sumin%20Kwak&height=300&color=5BFFB0&fontColor=ffffff)
 
+<h3 align="center"> ✋ **Welcome to my Github Profile!** </h3>
+
+
+
+<h3 align="center"> 🔍 About Me </h3>
+<p align="center">
+  &nbsp;📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br></br>
+  &nbsp;📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>).&thinsp;</br></br>
+  &nbsp;💡 &hairsp;I'm a <b>curious</b> person with specific thoughts and goals. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&hairsp;&hairsp;&thinsp;&hairsp; </br></br>
+  &nbsp;🔑 I study hard day and night to be an <b>active and enthusiastic</b> developer. &thinsp;&hairsp;&hairsp;&hairsp; </br>
+
+
+
+
 <div align="center">
   
   #### ✋ Welcome to my Github Profile!
@@ -20,12 +34,7 @@
 
 </div>
 
-<h3 align="center"> 🔍 About Me </h3>
-<p align="center">
-  &nbsp;📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br></br>
-  &nbsp;📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>).&thinsp;</br></br>
-  &nbsp;💡 &hairsp;I'm a <b>curious</b> person with specific thoughts and goals. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&hairsp;&hairsp;&thinsp;&hairsp; </br></br>
-  &nbsp;🔑 I study hard day and night to be an <b>active and enthusiastic</b> developer. &thinsp;&hairsp;&hairsp;&hairsp; </br>
+
 
 </p>
 
