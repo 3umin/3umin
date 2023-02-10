@@ -6,7 +6,7 @@
 
 <h3 align="center">  Brief Introduction </h3>
 <p align="center">
-  &nbsp;▪ I'm majoring in <b>Applied Statistics<b> & <b>Economics<b> at Chung-Ang University. </br></br>
+  &nbsp;▪ I'm majoring in <b>Applied Statistics<b> & <b>Economics<b> at Chung-Ang University. </br>
   &nbsp;▪ I'm currently studying <b>Machine Leanrning<b> & <b>Deep Learning<b>. </br></br>
   
 </p>
