@@ -1,43 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Sumin%20Kwak&height=300&color=5BFFB0&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Sumin%20Kwak&height=200&color=5BFFB0&fontColor=ffffff&fontSize=60)
 
 <h3 align="center"> ✋ Welcome to my Github Profile! </h3>
 
 
 
-<h3 align="center"> 🔍 About Me </h3>
+<h3 align="center"> 🔎 Brief Introduction </h3>
 <p align="center">
-  &nbsp;📜 I majored in <b>Applied Statistics</b> and <b>Psychology</b> at Chung-Ang University. </br></br>
-  &nbsp;📚 I'm currently learning Machine Learning, Deep Learning(especially <b>NLP</b>).&thinsp;</br></br>
-  &nbsp;💡 &hairsp;I'm a <b>curious</b> person with specific thoughts and goals. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&hairsp;&hairsp;&thinsp;&hairsp; </br></br>
-  &nbsp;🔑 I study hard day and night to be an <b>active and enthusiastic</b> developer. &thinsp;&hairsp;&hairsp;&hairsp; </br>
-
-
-
-
-<div align="center">
+  &nbsp;▪ I'm majoring in <b>Applied Statistics<b> & <b>Economics<b> at Chung-Ang University. </br></br>
+  &nbsp;▪ I'm currently studying <b>Machine Leanrning<b> & <b>Deep Learning<b>. </br></br>
   
-  #### ✋ Welcome to my Github Profile!
-
-
-  <br/>
-
-  <br/>
-
-
-  #### 🔎 Brief Introduction
-  
-  ▪ I'm majoring in **Applied Statistics** & **Economics** at Chung-Ang University.
-  
-  ▪ I'm currently studying Machine Leanrning & Deep Learning.
-  
-  ▪ I'm a passionate person who studies hard all day.
-
-</div>
-
-
-
-</p>
-
-I'm majoring in Applied Statistics & Economics at Chung-Ang University.
-I'm currently studying Machine Leanrning & Deep Learning.
-I'm a passionate person who studies hard all day.
