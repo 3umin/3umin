@@ -3,7 +3,7 @@
 ✋ Welcome to my Github Profile!
 
 <div align="center">
-🔎 ** Brief Introduction **
+🔎 **Brief Introduction**
 </div>
 
 I'm majoring in Applied Statistics & Economics at Chung-Ang University.
