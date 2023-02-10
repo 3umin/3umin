@@ -3,9 +3,9 @@
 ✋ Welcome to my Github Profile!
 
 <div align="center">
-🔎 **Brief Introduction**
+**🔎 Brief Introduction**
 </div>
-
+**굵게**
 I'm majoring in Applied Statistics & Economics at Chung-Ang University.
 I'm currently studying Machine Leanrning & Deep Learning.
 I'm a passionate person who studies hard all day.
