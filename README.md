@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Sumin%20Kwak&height=300&color=5BFFB0&fontColor=ffffff)
 
-<h3 align="center"> ✋ **Welcome to my Github Profile!** </h3>
+<h3 align="center"> ✋ Welcome to my Github Profile! </h3>
 
 
 
