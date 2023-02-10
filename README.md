@@ -12,11 +12,13 @@
 
   #### 🔎 Brief Introduction
   
+  ▪ I'm majoring in **Applied Statistics** & **Economics** at Chung-Ang University.
+  
+  ▪ I'm currently studying Machine Leanrning & Deep Learning.
+  
+  ▪ I'm a passionate person who studies hard all day.
 
 </div>
-  ▪ I'm majoring in **Applied Statistics** & **Economics** at Chung-Ang University.
-  ▪
-  ▪
 
 I'm majoring in Applied Statistics & Economics at Chung-Ang University.
 I'm currently studying Machine Leanrning & Deep Learning.
