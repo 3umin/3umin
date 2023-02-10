@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&text=Sumin%Kwak&height=300&color=5BFFB0&fontColor=ffffff)
+ ![header](https://capsule-render.vercel.app/api?type=waving&text=Sumin%Kwak&height=300&color=5BFFB0&fontColor=ffffff)
  
   
   #### ✋ Welcome to my Github Profile!
