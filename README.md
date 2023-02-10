@@ -11,6 +11,10 @@
 
 
   #### 🔎 Brief Introduction
+  
+  ▪ I'm majoring in **Applied Statistics** & **Economics** at Chung-Ang University.
+  ▪
+  ▪
 </div>
 
 
